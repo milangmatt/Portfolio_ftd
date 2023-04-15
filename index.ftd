@@ -1,0 +1,25 @@
+-- import: sarvom.github.io/portfolio/assets
+-- import: sarvom.github.io/portfolio/lib
+
+-- lib.navbar:
+text-1: **Home**
+text-2: **About**
+text-3: **Resume**
+text-4: **Contact**
+
+-- lib.hero: **Govindaraman S**
+cta-text-1: ***Reframe the future***
+cta-text-2: **Dreamer | Designer | Developer**
+pic: $assets.files.images.hero.jpg
+linkedin: $assets.files.images.linkedin.png
+twit: $assets.files.images.twitter.png
+insta: $assets.files.images.insta.png
+github: $assets.files.images.github.png
+
+-- lib.about: **About Me**
+
+**I am a Software Engineer in the making, currently in the state of learning and
+studying, trying to explore all the paradigms of the computer world.
+I pride myself to be a quick learner and someone who is able to apply a simple 
+concept in several different ways which I think is a very important trait of an
+engineer.Reframe the future.**
