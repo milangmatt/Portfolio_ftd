@@ -194,7 +194,6 @@ caption title:
 string cta-text-1:
 string cta-text-2:
 ftd.image-src linkedin:
-ftd.image-src twit:
 ftd.image-src insta:
 ftd.image-src github:
 
@@ -209,7 +208,6 @@ title: $hero.title
 cta-text-1: $hero.cta-text-1
 cta-text-2: $hero.cta-text-2
 linkedin: $hero.linkedin
-twit: $hero.twit
 insta: $hero.insta
 github: $hero.github
 
@@ -221,7 +219,6 @@ title: $hero.title
 cta-text-1: $hero.cta-text-1
 cta-text-2: $hero.cta-text-2
 linkedin: $hero.linkedin
-twit: $hero.twit
 insta: $hero.insta
 github: $hero.github
 
@@ -244,7 +241,6 @@ caption title:
 string cta-text-1:
 string cta-text-2:
 ftd.image-src linkedin:
-ftd.image-src twit:
 ftd.image-src insta:
 ftd.image-src github:
 
@@ -286,22 +282,19 @@ margin-bottom.px: 8
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-mobile.linkedin
-link: https://www.linkedin.com/in/govindaraman-s/
+link: https://www.linkedin.com/in/milan-george-mathew-095303261
 
--- ftd.image:
-height.fixed.px: 32
-src: $hero-mobile.twit
-link: https://twitter.com/Govindaraman7
+
 
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-mobile.insta
-link: https://www.instagram.com/s_govindaraman_/
+link: https://instagram.com/milan_geo.matt?igshid=ZDdkNTZiNTM=
 
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-mobile.github
-link: https://github.com/Sarvom
+link: https://github.com/milangmatt
 
 -- end: ftd.row
 
@@ -325,7 +318,6 @@ caption title:
 string cta-text-1:
 string cta-text-2:
 ftd.image-src linkedin:
-ftd.image-src twit:
 ftd.image-src insta:
 ftd.image-src github:
 
@@ -372,22 +364,18 @@ spacing.fixed.px: 30
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-desktop.linkedin
-link: https://www.linkedin.com/in/govindaraman-s/
+link: https://www.linkedin.com/in/milan-george-mathew-095303261
 
--- ftd.image:
-height.fixed.px: 32
-src: $hero-desktop.twit
-link: https://twitter.com/Govindaraman7
 
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-desktop.insta
-link: https://www.instagram.com/s_govindaraman_/
+link: https://instagram.com/milan_geo.matt?igshid=ZDdkNTZiNTM=
 
 -- ftd.image:
 height.fixed.px: 32
 src: $hero-desktop.github
-link: https://github.com/Sarvom
+link: https://github.com/milangmatt
 
 -- end: ftd.row
 

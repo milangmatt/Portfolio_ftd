@@ -12,7 +12,6 @@ cta-text-1: *Learn everyday*
 cta-text-2: **Front-end Developer | Designer | 3D enthusiast**
 pic: $assets.files.images.hero.png
 linkedin: $assets.files.images.linkedin.png
-twit: $assets.files.images.twitter.png
 insta: $assets.files.images.insta.png
 github: $assets.files.images.github.png
 
