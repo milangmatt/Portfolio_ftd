@@ -7,10 +7,10 @@ text-2: **About**
 text-3: **Resume**
 text-4: **Contact**
 
--- lib.hero: **Govindaraman S**
-cta-text-1: ***Reframe the future***
-cta-text-2: **Dreamer | Designer | Developer**
-pic: $assets.files.images.hero.jpg
+-- lib.hero: **Milan George Mathew**
+cta-text-1: *Learn everyday*
+cta-text-2: **Front-end Developer | Designer | 3D enthusiast**
+pic: $assets.files.images.hero.png
 linkedin: $assets.files.images.linkedin.png
 twit: $assets.files.images.twitter.png
 insta: $assets.files.images.insta.png
@@ -18,8 +18,18 @@ github: $assets.files.images.github.png
 
 -- lib.about: **About Me**
 
-**I am a Software Engineer in the making, currently in the state of learning and
-studying, trying to explore all the paradigms of the computer world.
-I pride myself to be a quick learner and someone who is able to apply a simple 
-concept in several different ways which I think is a very important trait of an
-engineer.Reframe the future.**
+**I am a tech enthusiast who loves to be engaged in work,a great learner with good networking skills. I practice web development and does front end web development and in future go on to back end web development too. Doing my first year in B Tech..
+I find my time to go on with my interest on 3D Modelling in Blender.**
+
+-- lib.events: **Experience**
+
+Technical Team , NetX MACE - MACE FOSS Club
+
+Design Team , ASME MACE
+
+Technical Team , enFOSS - FOSS Camp conducted by NetX MACE
+
+Media & Publicity Team , Girlathon -GDSC MACE
+
+Event Head , Sampark X Mace - a Talk Session on Hyperloop conducted by ASME MACE in collab with Team AAVISHKAR(IITM)
+
