@@ -1,6 +1,6 @@
 -- import: milangmatt.github.io/Portfolio_ftd/assets
 
-
+String { text: \"sans-serif\" }
 
 -- component navbar:
 string text-1:
